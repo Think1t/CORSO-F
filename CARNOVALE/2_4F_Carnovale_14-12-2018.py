@@ -1,6 +1,6 @@
 # Questo programma legge 3 numeri interi e stampa il maggiore, il minore ed esegue la media
 
-import math
+
 import os
 
 input_1 = input('Inserisci il primo valore intero: ')   # Inserimento del primo valore
