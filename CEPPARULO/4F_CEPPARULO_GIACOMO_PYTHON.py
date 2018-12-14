@@ -42,6 +42,7 @@ def menu():# funzione che contiene la switch per la scelta delle operazioni da e
             file_lista.close()
             print('Lista stampata su file(lista_cepparulo_giacomo.txt)')
         else:
+            lista.clear()#svuota lista
             sys.exit()
 
 
