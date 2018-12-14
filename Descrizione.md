@@ -1,4 +1,7 @@
 # COURSE-F
-Biblioteca corso F
-Esempi esercizi con python 
+Biblioteca corso F,
+esempi esercizi con python
+
+
+
 Campanile, Carnovale, Cepparulo, Rossini.
